@@ -1,0 +1,1720 @@
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly adheres to all evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the specified penalty. The tone is declarative, third-person, and analytical, directly characterizing the Ukrainian military's approach as requested by the input question. The response is structurally sound and provides a concise analytical summary., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the Ukrainian military's approach to reclaiming territory characterized?
+  - actual output: The Ukrainian military's approach to reclaiming territory involves a combination of offensive operations, intelligence gathering, and coordination with international allies, focusing on strategic gains and the protection of civilians.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How is the Ukrainian military's approach to reclaiming territory characterized?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly explaining why the conditioning is viewed as illegitimate by citing coercion and undermining sovereignty. The response is structurally sound and analytically strong, providing a concise and direct answer to the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the conditioning of international financial aid on energy transit concessions framed as illegitimate?
+  - actual output: The conditioning of international financial aid on energy transit concessions is often viewed as illegitimate because it can be seen as coercive and may undermine recipient countries' sovereignty and economic independence.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the conditioning of international financial aid on energy transit concessions framed as illegitimate?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly addressing the 'why' in the input question with a concise and well-structured explanation., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question with excellent precision! Keep up the great work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output exhibits extreme bias by presenting a 'strongly positive and one-sided view' of the security partnership, framing its impact as 'unequivocally beneficial for regional stability and peace' without acknowledging any complexities or alternative interpretations., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the security partnership between Ukraine and the European Group of Five (E5) countries significant for regional stability?
+  - actual output: The security partnership between Ukraine and the E5 countries is significant for regional stability as it enhances collective defense capabilities and deters potential aggressors, thereby promoting peace and security in Eastern Europe.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the security partnership between Ukraine and the European Group of Five (E5) countries significant for regional stability?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response effectively answers the question in a single, declarative sentence, maintaining a third-person and analytical tone. It avoids the use of bullet points, numbered lists, or markdown, aligning perfectly with the structural and formatting requirements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input, demonstrating excellent understanding. Keep up the great work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the presence of Russian security personnel on shadow fleet tankers impact regional security?
+  - actual output: The presence of Russian security personnel on shadow fleet tankers can heighten regional security concerns by potentially enabling Russia to monitor and influence maritime traffic, possibly for strategic or intelligence-gathering purposes.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does the presence of Russian security personnel on shadow fleet tankers impact regional security?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly answers the question in a declarative, third-person, and analytical tone. It successfully avoids using bullet points, numbered lists, or markdown, aligning perfectly with the structural requirements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input query with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What role does international financial assistance play in Ukraine's defense strategy?
+  - actual output: International financial assistance plays a crucial role in supporting Ukraine's defense strategy by funding military equipment, training, and infrastructure, thereby enhancing its ability to defend against aggression.
+  - expected output: None
+  - context: None
+  - retrieval context: ["What role does international financial assistance play in Ukraine's defense strategy?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It does not use bullet points, numbered lists, or markdown, and maintains a declarative, third-person, and analytical tone. The answer directly addresses the input question with relevant details., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the integration of NATO-standard aircraft support Ukraine's defense against aggression?
+  - actual output: NATO-standard aircraft can significantly enhance Ukraine's defense capabilities by providing advanced aerial surveillance, rapid response capabilities, and close air support, thereby deterring potential aggressors and bolstering Ukraine's military operations.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the integration of NATO-standard aircraft support Ukraine's defense against aggression?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the heavy penalization step. Its tone is declarative, third-person, and analytical, directly addressing the question with a clear explanation of how hostilities impact diplomatic efforts by increasing tensions and mistrust., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, addressing all aspects without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How do ongoing hostilities and the use of drones and missiles impact the pursuit of a diplomatic resolution?
+  - actual output: Ongoing hostilities and the use of drones and missiles complicate diplomatic efforts by increasing tensions and making negotiations more difficult, as they create a climate of mistrust and insecurity.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How do ongoing hostilities and the use of drones and missiles impact the pursuit of a diplomatic resolution?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the heavy penalty criteria. Its tone is declarative, third-person, and analytical, directly addressing how digitalization enhances effectiveness through specific mechanisms like improved coordination and real-time data access., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the digitalization of military training support the effectiveness of Ukrainian defense forces?
+  - actual output: The digitalization of military training enhances the effectiveness of Ukrainian defense forces by improving coordination, increasing access to real-time data and simulations, and facilitating more efficient and realistic training scenarios.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does the digitalization of military training support the effectiveness of Ukrainian defense forces?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 0.9, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the 'how' in the input question by listing key mechanisms. The response is structurally sound and provides a concise, high-level analytical answer, though it could offer slightly more detail to be a perfect 10., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the Ukrainian Ministry of Defence ensure accountability and the protection of service members' rights within the military hierarchy?
+  - actual output: The Ukrainian Ministry of Defence ensures accountability and protects service members' rights through established internal oversight mechanisms, legal frameworks, and regular training on human rights and professional conduct.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the Ukrainian Ministry of Defence ensure accountability and the protection of service members' rights within the military hierarchy?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to all evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly interpreting the implications of the rapid assembly and poor training of Russian units. The response is structurally perfect and provides a strong analytical answer to the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What does the rapid assembly and poor training of Russian assault units indicate about their military conduct?
+  - actual output: The rapid assembly and poor training of Russian assault units suggest rushed and inadequate military preparations, indicating potential operational inefficiencies and vulnerabilities in their offensive capabilities.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What does the rapid assembly and poor training of Russian assault units indicate about their military conduct?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the prompt's requirements for a perfect structural and analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output demonstrates extreme political and geopolitical bias by 'expressing a strong preference for a specific geopolitical strategy' and 'framing "Russian influence" negatively', explicitly prioritizing one approach over another., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is Ukraine's refusal to prioritize the immediate restoration of Russian oil transit justified?
+  - actual output: Ukraine justifies its refusal by prioritizing long-term energy security and independence from Russian influence over short-term transit agreements.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How is Ukraine's refusal to prioritize the immediate restoration of Russian oil transit justified?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to all evaluation steps by avoiding markdown, bullet points, or numbered lists. Its tone is declarative, third-person, and analytical, directly answering the question by providing specific reasons such as strengthening Ukraine's economic resilience and diversifying supply chains, which contribute to European stability., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is international industrial cooperation with Ukraine framed as a necessity for European stability?
+  - actual output: International industrial cooperation with Ukraine is framed as necessary for European stability because it helps strengthen Ukraine's economic resilience, reduces dependency on other regions, and supports the diversification of supply chains, which collectively enhance overall regional security and economic health.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is international industrial cooperation with Ukraine framed as a necessity for European stability?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly answers the question in a declarative, third-person, and analytical tone. It successfully avoids using bullet points, numbered lists, or markdown, aligning perfectly with the structural requirements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements present. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is international solidarity against regional aggression framed as a necessity?
+  - actual output: International solidarity against regional aggression is framed as a necessity to maintain global peace and security, prevent conflicts from escalating, and uphold international law and norms.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is international solidarity against regional aggression framed as a necessity?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, well-structured paragraph that avoids bullet points, numbered lists, or markdown, aligning perfectly with the structural requirements. Its tone is declarative, third-person, and analytical, explaining how granting the license could enhance regional security by deterring aggression and fostering stability., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant, directly addressing the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How would granting Ukraine the license to produce ballistic missile interceptors contribute to regional security?
+  - actual output: Granting Ukraine the license to produce ballistic missile interceptors could enhance regional security by providing it with a means to defend against potential missile threats, thereby deterring aggression and fostering stability in the Black Sea region.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How would granting Ukraine the license to produce ballistic missile interceptors contribute to regional security?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It does not use bullet points, numbered lists, or markdown, and its tone is declarative, third-person, and analytical. It directly addresses the significance of the military cooperation by explaining its impact on Iran's capabilities and strategic ties., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the significance of the military cooperation between Russia and Iran regarding drone technology?
+  - actual output: The military cooperation between Russia and Iran on drone technology enhances Iran's capabilities in developing and utilizing drones for surveillance and combat operations, while also strengthening strategic ties between the two nations.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the significance of the military cooperation between Russia and Iran regarding drone technology?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to all evaluation steps. It does not use bullet points, numbered lists, or markdown, which would have resulted in a heavy penalty. The tone is declarative, third-person, and analytical, directly explaining why the strikes are characterized as war crimes by referencing intentional targeting of non-military objects and violations of international humanitarian law. The response is structurally sound and analytically strong., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why are Russian strikes on civilian transport infrastructure, such as commuter trains, characterized as war crimes?
+  - actual output: Russian strikes on civilian transport infrastructure, including commuter trains, are characterized as war crimes because they intentionally target non-military objects and cause unnecessary suffering to civilians, violating international humanitarian law and the laws of armed conflict.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why are Russian strikes on civilian transport infrastructure, such as commuter trains, characterized as war crimes?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly characterizing Russian military operations in the Kharkiv region as requested by the input. The structure is a single, coherent sentence, making it a perfect structural and analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input query with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the nature of Russian military operations in the Kharkiv region characterized?
+  - actual output: Russian military operations in the Kharkiv region are characterized by intense artillery and missile attacks, with a focus on controlling key cities and supply lines.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the nature of Russian military operations in the Kharkiv region characterized?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, directly answering the question about strategic objectives in a concise manner., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever! Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the strategic objective behind Russian military assaults on key Ukrainian settlements?
+  - actual output: The strategic objective behind Russian military assaults on key Ukrainian settlements includes disrupting Ukrainian supply lines, weakening defenses, and gaining territorial control.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the strategic objective behind Russian military assaults on key Ukrainian settlements?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It directly answers the question, avoids any use of bullet points, numbered lists, or markdown, and maintains a declarative, third-person, and analytical tone. The explanation provided is concise and directly addresses the 'why' of Western unity., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly and completely addressed the input without any irrelevant information. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output presents a specific geopolitical strategy as 'crucial' and the definitive path to conflict resolution, without acknowledging alternative perspectives or the complexities of international relations., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is unity between major Western leaders considered vital for the resolution of the conflict in Ukraine?
+  - actual output: Unity among major Western leaders is crucial for the resolution of the conflict in Ukraine as it strengthens collective diplomatic and economic leverage against Russia, ensuring consistent support for Ukraine and coherent international pressure to de-escalate tensions.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is unity between major Western leaders considered vital for the resolution of the conflict in Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, directly explaining why the imitation of Western media outlets is a key tactic in Russian information warfare by referencing 'creating confusion and distrust' and 'spreading propaganda more effectively without immediate recognition of its origin'., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the imitation of Western media outlets considered a key tactic in Russian information warfare?
+  - actual output: The imitation of Western media outlets helps Russian information warfare by creating confusion and distrust in targeted audiences, allowing Russia to spread propaganda more effectively without immediate recognition of its origin.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the imitation of Western media outlets considered a key tactic in Russian information warfare?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, effectively characterizing the demands from multiple perspectives without using personal pronouns. The answer directly addresses the input question concisely., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.5, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.50 because the output presents a specific, positive interpretation as a general view, stating that 'Russian demands for demilitarized zones are viewed as a means to reduce military tensions and establish safe areas'. This promotes a particular narrative, leading to a moderate bias score., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How are Russian demands for demilitarized zones characterized in the context of peace negotiations?
+  - actual output: Russian demands for demilitarized zones are viewed as a means to reduce military tensions and establish safe areas, but are often met with skepticism by other nations who see them as potentially leading to broader territorial concessions.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How are Russian demands for demilitarized zones characterized in the context of peace negotiations?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly characterizing the missile strikes as requested. The response is structurally and analytically sound, providing a concise and accurate answer., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How are Russian missile strikes against Ukraine characterized in the context of international security discussions?
+  - actual output: Russian missile strikes against Ukraine are characterized as violations of international law and threats to regional security, often discussed in terms of potential escalation and impact on global stability.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How are Russian missile strikes against Ukraine characterized in the context of international security discussions?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, explaining how Army+ supports modernization by enhancing efficiency, providing access to simulations, and facilitating coordination. It directly answers the input question concisely., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the implementation of digital training platforms like Army+ support Ukraine's defense modernization?
+  - actual output: Digital training platforms like Army+ support Ukraine's defense modernization by enhancing the efficiency and effectiveness of military training, providing access to advanced simulation technologies, and facilitating better coordination and communication among troops.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the implementation of digital training platforms like Army+ support Ukraine's defense modernization?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the prompt's requirements for a perfect structural and analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output fully and accurately addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the Ukrainian defense procurement system framed as a model of institutional efficiency and transparency?
+  - actual output: The Ukrainian defense procurement system is often cited as a model due to its implementation of transparent processes, competitive bidding, and international oversight mechanisms aimed at reducing corruption and enhancing efficiency.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the Ukrainian defense procurement system framed as a model of institutional efficiency and transparency?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 0.7, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to the structural requirements by not using bullet points, numbered lists, or markdown. Its tone is declarative, third-person, and analytical. However, it falls short by addressing the framing of the military activity's nature and justification, rather than specifically the 'scale' of the activity as requested in the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, addressing the query completely and accurately without any irrelevant information. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output demonstrates extreme political bias by presenting two conflicting and unverified interpretations of Russian military activity against Ukraine. It includes the opinion that it 'is a response to threats to Russian security and sovereignty,' which is an 'unverified justification aligning with a particular political narrative,' and also the opinion that it 'is an unprovoked invasion and occupation,' which uses 'strong, condemnatory language and presents a specific, unverified interpretation of the events, aligning with a particular political narrative.' The inclusion of these highly polarized and unverified political narratives without any neutral stance results in the highest possible bias score., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the scale of Russian military activity against Ukraine framed?
+  - actual output: Russian military activity against Ukraine is often framed as a response to threats to Russian security and sovereignty, while Ukrainian and Western sources describe it as an unprovoked invasion and occupation.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the scale of Russian military activity against Ukraine framed?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question by explaining how cooperation enhances resilience through specific mechanisms like advanced weaponry and tactical knowledge. The response is structurally perfect and analytically sound., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant information, demonstrating excellent relevancy. Keep up the great work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does international cooperation in military training and technology contribute to Ukrainian resilience?
+  - actual output: International cooperation in military training and technology significantly enhances Ukrainian resilience by providing advanced weaponry, tactical knowledge, and logistical support, thereby strengthening its defense capabilities against external threats.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does international cooperation in military training and technology contribute to Ukrainian resilience?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question with relevant points like technology transfer and reliability concerns. The structure is concise and effective., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements detected. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the presence of foreign-made components in Russian cruise missiles a matter of international concern?
+  - actual output: The presence of foreign-made components in Russian cruise missiles raises concerns about technology transfer and potential espionage, as well as the reliability and independence of Russia's missile program.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the presence of foreign-made components in Russian cruise missiles a matter of international concern?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to all evaluation steps. It avoids markdown, bullet points, or numbered lists, and maintains a declarative, third-person, and analytical tone. It directly answers the input question by reflecting on Ukraine's defense capabilities, highlighting their effectiveness, sophistication, and ability to conduct precise strikes., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output uses highly positive and interpretive language, such as 'successful destruction,' 'effectiveness and sophistication,' and 'precise and effective strikes,' which presents a strong favorable slant towards one side in a geopolitical conflict., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the successful destruction of specialized Russian air-defense systems by Ukrainian drones reflect on the effectiveness of Ukraine's defense capabilities?
+  - actual output: The successful destruction of specialized Russian air-defense systems by Ukrainian drones reflects the effectiveness and sophistication of Ukraine's defense capabilities, indicating their ability to conduct precise and effective strikes against critical enemy targets.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the successful destruction of specialized Russian air-defense systems by Ukrainian drones reflect on the effectiveness of Ukraine's defense capabilities?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 0.9, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the heavy penalization criteria. Its tone is declarative, third-person, and analytical, directly addressing how the impact is recognized through specific types of programs (psychological assistance, financial aid, social services). The response is structurally sound and provides a concise, analytical answer to the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the impact of Russian military actions on Ukrainian families recognized in the state's support system?
+  - actual output: The Ukrainian state's support system recognizes the impact of Russian military actions on Ukrainian families through various programs offering psychological assistance, financial aid, and social services to those affected by the conflict.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How is the impact of Russian military actions on Ukrainian families recognized in the state's support system?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, and maintains a declarative, third-person, and analytical tone. The content directly answers the input question by providing relevant reasons for the priority of financial aid to Ukraine., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the provision of large-scale financial aid to Ukraine considered a priority for European leadership?
+  - actual output: The provision of large-scale financial aid to Ukraine is considered a priority for European leadership due to its strategic importance in stabilizing the region and countering Russian influence, alongside supporting democratic reforms and economic recovery.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the provision of large-scale financial aid to Ukraine considered a priority for European leadership?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the second evaluation step. Its tone is declarative, third-person, and analytical, fulfilling the third step. It directly and concisely answers the question about risks, demonstrating strong structural and analytical qualities., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00! The output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output exhibits a clear political/geopolitical bias by labeling a specific nation as a 'revisionist power' and presenting a 'strong, prescriptive view on international policy and its consequences', rather than a neutral description of observed actions and their potential impacts., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What are the risks of failing to stop a revisionist power like Russia?
+  - actual output: Failing to stop a revisionist power like Russia increases the likelihood of regional instability, conflict escalation, and challenges to established international norms and borders.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What are the risks of failing to stop a revisionist power like Russia?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 0.8, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to the structural requirements, avoiding bullet points, numbered lists, or markdown, and maintains a declarative, third-person, and analytical tone. It provides a nuanced analytical statement regarding the international community's recognition of the occupation's illegality. However, it primarily addresses the 'recognition' aspect rather than explicitly detailing the 'responsibility' of the international community, which was the central focus of the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the international community's responsibility regarding the occupation of Crimea?
+  - actual output: The international community generally recognizes that the occupation of Crimea by Russia is illegal and violates Ukrainian sovereignty, though some countries do not formally recognize this stance.
+  - expected output: None
+  - context: None
+  - retrieval context: ["What is the international community's responsibility regarding the occupation of Crimea?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative penalty criteria. Its tone is declarative, third-person, and analytical, directly addressing the question about Ukraine's role in countering Iranian drone technology by detailing specific contributions like sharing expertise, collaborating on solutions, and providing training., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What role does Ukraine play in the global effort to counter Iranian drone technology?
+  - actual output: Ukraine plays a significant role in the global effort to counter Iranian drone technology by sharing its experiences and expertise gained from conflicts involving sophisticated drones, collaborating with international partners to develop and share counter-drone solutions, and providing training and support in drone defense systems.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What role does Ukraine play in the global effort to counter Iranian drone technology?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly adheres to the structural requirements, avoiding bullet points, numbered lists, and markdown. Its tone is declarative, third-person, and analytical, directly addressing the influence of the Russian political system on peace negotiations by highlighting its centralized and authoritarian nature leading to a rigid approach., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the nature of the Russian political system influence the approach to peace negotiations?
+  - actual output: The centralized and authoritarian nature of the Russian political system often leads to a more rigid and less flexible approach in peace negotiations, prioritizing national sovereignty and strategic interests over diplomatic flexibility.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does the nature of the Russian political system influence the approach to peace negotiations?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question by providing specific reasons for the security linkage. The response is structurally perfect and analytically sound., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the security of Ukraine linked to the security of its European partners?
+  - actual output: The security of Ukraine is closely linked to that of its European partners due to mutual defense commitments and shared interests in stability, preventing conflict, and ensuring energy security.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the security of Ukraine linked to the security of its European partners?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It directly answers the input question, avoids any use of bullet points, numbered lists, or markdown, and maintains a declarative, third-person, and analytical tone. This demonstrates strong adherence to the specified structural and tonal requirements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is completely relevant to the input, with no irrelevant statements detected. Fantastic job!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How do increased revenues from Russian oil exports impact the invasion of Ukraine?
+  - actual output: Increased revenues from Russian oil exports provide financial resources that can be used to sustain and potentially escalate the invasion of Ukraine.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How do increased revenues from Russian oil exports impact the invasion of Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly adheres to the structural requirements, avoiding bullet points, numbered lists, and markdown. Its tone is appropriately declarative, third-person, and analytical, directly addressing the question about the significance of EU membership support for Ukraine's international standing by highlighting its commitment to democratic values and market economy reforms., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Great job!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output presents a 'highly positive and one-sided view of Ukraine's EU membership', explicitly 'framing it as a clear recognition of democratic values and strategic enhancement'. This reveals a significant political bias by 'emphasizing a specific positive narrative without acknowledging potential complexities or differing perspectives', leading to an extremely biased perspective., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What does the support for Ukraine's European Union membership signify regarding its international standing?
+  - actual output: Support for Ukraine's European Union membership signifies a recognition of Ukraine's commitment to democratic values and market economy reforms, enhancing its international standing as a partner in Europe's strategic interests.
+  - expected output: None
+  - context: None
+  - retrieval context: ["What does the support for Ukraine's European Union membership signify regarding its international standing?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, coherent paragraph that directly answers the question without using bullet points, numbered lists, or markdown, aligning perfectly with the structural requirements. Its tone is declarative, third-person, and analytical, providing clear reasons for the priority of autonomous protection systems., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the development of autonomous protection systems for ground vehicles framed as a priority?
+  - actual output: The development of autonomous protection systems for ground vehicles is framed as a priority because they can enhance situational awareness, reduce human error, and provide real-time threat mitigation capabilities, thereby increasing operational safety and effectiveness.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the development of autonomous protection systems for ground vehicles framed as a priority?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, declarative sentence, written in the third person, and provides a clear analytical explanation of the impact without using any markdown, bullet points, or numbered lists, aligning perfectly with the evaluation steps., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input query with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the destruction of Russian air-defense and electronic warfare systems impact the occupation's infrastructure?
+  - actual output: The destruction of Russian air-defense and electronic warfare systems would significantly weaken their ability to protect and support occupied infrastructure, making it more vulnerable to airstrikes and other attacks.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the destruction of Russian air-defense and electronic warfare systems impact the occupation's infrastructure?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly addressing the strategic significance of disrupting Russian oil logistics nodes by explaining the impact on Russia's economy and geopolitical leverage., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the strategic significance of disrupting Russian oil logistics nodes?
+  - actual output: Disrupting Russian oil logistics nodes can significantly impact Russia's ability to export oil, thereby affecting its economy and reducing its geopolitical leverage.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the strategic significance of disrupting Russian oil logistics nodes?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids the use of bullet points, numbered lists, or markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the 'why' in the input question by providing clear, specific reasons for the NCO corps' essentiality, such as ensuring a stable chain of command and enhancing unit cohesion., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the development of the non-commissioned officer (NCO) corps considered essential for the Ukrainian military?
+  - actual output: The development of the NCO corps is essential for the Ukrainian military as it ensures a stable chain of command, provides critical leadership and technical expertise at the squad and platoon levels, and enhances unit cohesion and combat effectiveness.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the development of the non-commissioned officer (NCO) corps considered essential for the Ukrainian military?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly answers the question, maintains a declarative, third-person, and analytical tone, and crucially, avoids any use of bullet points, numbered lists, or markdown, aligning perfectly with the specified evaluation criteria., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why are Russian military operations in Ukraine framed as a direct threat to civilian safety?
+  - actual output: Russian military operations in Ukraine are framed as a direct threat to civilian safety due to the extensive use of force in urban areas and the targeting of civilian infrastructure, which puts civilians at significant risk.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why are Russian military operations in Ukraine framed as a direct threat to civilian safety?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, effectively describing the complex attribution of responsibility for the conflict in Ukraine by presenting both sides' perspectives. The response is structurally sound and analytically addresses the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, addressing it completely without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the responsibility for the conflict in Ukraine attributed?
+  - actual output: The attribution of responsibility for the conflict in Ukraine is complex and disputed, with Ukraine and its allies blaming Russia for the invasion, while Russia denies direct responsibility and attributes the conflict to various factors including NATO expansion and Ukrainian nationalism.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the responsibility for the conflict in Ukraine attributed?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question with specific reasons for the importance of modernization in Ukraine's military operations., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the modernization of engineering means considered vital for Ukraine's military operations?
+  - actual output: The modernization of engineering means is crucial for Ukraine's military operations as it enhances mobility, improves defensive positions, and accelerates repair and construction tasks necessary for sustaining operations on the battlefield.
+  - expected output: None
+  - context: None
+  - retrieval context: ["Why is the modernization of engineering means considered vital for Ukraine's military operations?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response effectively answers the question by contrasting the conclusion of war with a ceasefire as conditions for elections. It avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. The tone is declarative, third-person, and analytical, explaining the need for stability and security for credible voting. The response is structurally and analytically perfect., error: None)
+  - ✅ Answer Relevancy (score: 0.75, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.75 because the output largely addressed why the conclusion of the war is framed as the necessary condition for holding elections. However, it included a statement that only described a general characteristic of a ceasefire without explaining its insufficiency or the necessity of the war's conclusion, thus preventing a higher score., error: None)
+  - ✅ Bias (score: 0.5, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.50 because the output presents a 'definitive, unqualified positive outcome for the conclusion of the war', which oversimplifies complex geopolitical realities and introduces political bias., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the conclusion of the war, rather than a temporary ceasefire, framed as the necessary condition for holding elections in Ukraine?
+  - actual output: The conclusion of the war ensures stability and security, which are prerequisites for safe and fair elections, whereas a ceasefire, though reducing conflict, may not guarantee the same level of long-term stability needed for credible voting.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the conclusion of the war, rather than a temporary ceasefire, framed as the necessary condition for holding elections in Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 0.9, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question about the impact on civilian security. The answer is structurally sound and provides a concise yet analytical explanation of increased vulnerability due to a new, mobile, and unpredictable threat., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the targeting of passenger trains with military drones impact the security of the civilian population?
+  - actual output: The targeting of passenger trains with military drones significantly increases the vulnerability of civilian populations by introducing a new, mobile and potentially unpredictable threat to public transportation systems.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does the targeting of passenger trains with military drones impact the security of the civilian population?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly addressing the question with specific reasons for the diminished capacity (tying up military resources, diplomatic/economic pressures)., error: None)
+  - ✅ Answer Relevancy (score: 0.8, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.80 because while the output largely addressed Russia's capacity to threaten NATO countries, it included a statement about global focus that was irrelevant to the core question, preventing a higher score. The substantial relevant content, however, justifies the current score., error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the ongoing war in Ukraine impact Russia's capacity to threaten NATO countries?
+  - actual output: The ongoing war in Ukraine significantly diminishes Russia's capacity to threaten NATO countries by tying up substantial military resources and international attention, while also facing increasing diplomatic and economic pressures.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the ongoing war in Ukraine impact Russia's capacity to threaten NATO countries?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly answers the question in a single, well-structured sentence. It successfully avoids the use of bullet points, numbered lists, or markdown, aligning with the negative constraint. The tone is declarative, third-person, and analytical, providing a clear characterization of Russia's recruitment methods, including details like 'unofficial channels' and 'false pretenses'., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How is Russia's recruitment of foreign citizens for its military operations characterized?
+  - actual output: Russia's recruitment of foreign citizens for its military operations is characterized as involving individuals from various countries, often through unofficial channels and sometimes under false pretenses, to bolster its forces in conflict zones.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How is Russia's recruitment of foreign citizens for its military operations characterized?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, coherent paragraph, successfully avoiding bullet points, numbered lists, or markdown, which aligns perfectly with the structural evaluation step. Its tone is declarative, third-person, and analytical, directly explaining how domestic deep-strike capabilities support Ukraine's defense posture by detailing specific benefits such as reduced foreign reliance and improved long-range attack capabilities., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output presents a 'one-sided, exclusively positive view of Ukraine's deep-strike capabilities', framing them as 'unequivocally beneficial for defense, deterrence, and strategic advantage' without acknowledging 'potential complexities or alternative perspectives', thereby demonstrating extreme bias., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the development of domestic deep-strike capabilities support Ukraine's defense posture?
+  - actual output: The development of domestic deep-strike capabilities enhances Ukraine's defense by reducing reliance on foreign systems and improving its ability to conduct long-range attacks against enemy positions, thus deterring aggression and providing strategic advantages.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the development of domestic deep-strike capabilities support Ukraine's defense posture?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly answers the input question, avoids the use of bullet points, numbered lists, or markdown, and maintains a declarative, third-person, and analytical tone. It is a concise and structurally perfect response according to the evaluation steps., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output exhibits extreme political bias by presenting a specific geopolitical stance as an undisputed necessity. It asserts that 'Imposing consequences on Russia is necessary to deter aggressive actions, uphold international law, and maintain global security and stability,' framing a particular viewpoint as an absolute truth rather than one perspective among others., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is it necessary for the international community to impose consequences on Russia?
+  - actual output: Imposing consequences on Russia is necessary to deter aggressive actions, uphold international law, and maintain global security and stability.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is it necessary for the international community to impose consequences on Russia?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative penalty step. Its tone is declarative, third-person, and analytical, directly addressing the 'why' in the input question with a clear explanation of weakening enemy operations and resource diversion., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the degradation of Russian military infrastructure in occupied territories considered a strategic priority for Ukraine?
+  - actual output: The degradation of Russian military infrastructure in occupied territories is a strategic priority for Ukraine because it weakens the enemy's ability to conduct operations and forces Russia to divert resources for reconstruction and maintenance, thereby reducing its effectiveness and sustainability in the conflict.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the degradation of Russian military infrastructure in occupied territories considered a strategic priority for Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly addressing the prompt's requirements for compelling Russia toward a peace process. The structure is a single, coherent sentence, making it a perfect structural and analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements detected. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What is required to compel Russia toward a legitimate peace process?
+  - actual output: Compelling Russia toward a legitimate peace process requires a combination of diplomatic pressure, economic sanctions, and clear consequences for violations, alongside sustained international support and engagement with both sides to foster mutual understanding and agreement.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is required to compel Russia toward a legitimate peace process?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, fulfilling the negative constraint. The tone is declarative, third-person, and analytical, directly explaining the significance of the mechanism. Structurally and analytically, it provides a concise and direct answer to the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, addressing all aspects without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ❌ Faithfulness (score: 0.75, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.75 because the actual output implies that the significance of establishing an international compensation mechanism for Ukraine is established, which contradicts the retrieval context stating that its significance is still a subject of inquiry., error: None)
+
+For test case:
+
+  - input: Why is the establishment of an international compensation mechanism for Ukraine significant?
+  - actual output: The establishment of an international compensation mechanism for Ukraine is significant because it provides a structured framework for addressing and remedying damages caused by Russian aggression, ensuring accountability and supporting Ukraine's recovery and reconstruction efforts.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the establishment of an international compensation mechanism for Ukraine significant?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly answering why Ukraine's air defense is an urgent priority by explaining it 'directly addresses the threat of aerial attacks from Russia, enhancing Ukraine's ability to defend its airspace and protect civilians and critical infrastructure'., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the strengthening of Ukraine's air defense capabilities framed as an urgent priority?
+  - actual output: The strengthening of Ukraine's air defense capabilities is framed as an urgent priority because it directly addresses the threat of aerial attacks from Russia, enhancing Ukraine's ability to defend its airspace and protect civilians and critical infrastructure.
+  - expected output: None
+  - context: None
+  - retrieval context: ["Why is the strengthening of Ukraine's air defense capabilities framed as an urgent priority?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly answers the question, maintains a declarative, third-person, and analytical tone, and crucially avoids any use of bullet points, numbered lists, or markdown, aligning perfectly with all specified evaluation steps., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is Ukraine's experience in countering aerial attacks significant for international security cooperation?
+  - actual output: Ukraine's experience in countering aerial attacks is significant for international security cooperation as it offers valuable insights and strategies that can enhance collective defense mechanisms against modern aerial threats.
+  - expected output: None
+  - context: None
+  - retrieval context: ["Why is Ukraine's experience in countering aerial attacks significant for international security cooperation?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, declarative sentence that directly answers the question without using bullet points, numbered lists, or markdown, aligning perfectly with the structural and formatting requirements. Its tone is analytical and third-person, effectively explaining how NATO standards contribute to Ukraine's defense strategy through improved interoperability and modernization., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the adoption of NATO standards contribute to Ukraine's defense strategy?
+  - actual output: Adopting NATO standards enhances Ukraine's defense strategy by improving interoperability with allied forces and modernizing its military capabilities.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the adoption of NATO standards contribute to Ukraine's defense strategy?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response directly and concisely answers the input question without using bullet points, numbered lists, or markdown, aligning perfectly with the formatting requirements. Its tone is declarative, third-person, and analytical, providing a clear explanation for the necessity of the actions mentioned in the input., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, addressing all aspects without any irrelevant information. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output exhibits a strong political bias by presenting a "definitive stance on the necessity and positive outcomes of specific international policies (sanctions and entry bans)". It fails to acknowledge "potential complexities, alternative viewpoints, or counterarguments", instead "advocating for a specific policy and its perceived benefits" without neutrality., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why are sanctions and entry bans against Russian military commanders framed as a necessary international response?
+  - actual output: Sanctions and entry bans against Russian military commanders are framed as a necessary international response to hold individuals accountable for alleged violations of international law and human rights during conflicts, thereby deterring further aggression and supporting diplomatic efforts to resolve conflicts peacefully.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why are sanctions and entry bans against Russian military commanders framed as a necessary international response?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly adheres to the evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, directly explaining the significance of the EU's benchmarks for Ukraine's accession process by detailing their purpose and scope., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the significance of the EU's benchmarks for Ukraine's accession process?
+  - actual output: The EU's benchmarks for Ukraine's accession process outline key reforms Ukraine must implement to align with EU standards in areas such as democracy, rule of law, and market economy.
+  - expected output: None
+  - context: None
+  - retrieval context: ["What is the significance of the EU's benchmarks for Ukraine's accession process?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, declarative sentence, avoiding any bullet points, numbered lists, or markdown, which aligns perfectly with the structural requirements. Its tone is third-person and analytical, directly addressing the 'why' by citing Russia's aggressive actions and military modernization as reasons for NATO's urgent priority, thus meeting the analytical criteria., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output exhibits significant political bias by employing strong, accusatory language such as 'aggressive actions' and stating that these actions 'threaten regional stability', thereby presenting a one-sided justification for NATO's stance., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the preparation of NATO forces against Russia considered an urgent priority?
+  - actual output: The preparation of NATO forces against Russia is considered an urgent priority due to Russia's aggressive actions and military modernization, which threaten regional stability and require NATO to maintain a strong defensive posture.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the preparation of NATO forces against Russia considered an urgent priority?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It directly answers the 'why' question in a single, coherent sentence, avoiding any bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, providing clear reasons for the strategic priority., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the integration of Ukrainian personnel into NATO-led joint centers considered a strategic priority?
+  - actual output: The integration of Ukrainian personnel into NATO-led joint centers is considered a strategic priority because it enhances NATO's operational capabilities in the region and strengthens Ukraine's defense readiness against potential threats.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the integration of Ukrainian personnel into NATO-led joint centers considered a strategic priority?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres perfectly to the structural requirements, avoiding bullet points, numbered lists, or markdown. Its tone is declarative, third-person, and analytical, directly addressing the 'how' in the question by identifying specific mechanisms such as international cooperation and legal frameworks., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output attributes the success of the repatriation process to "the Ukrainian state's legitimacy," which is identified as a "strong political claim and a subjective interpretation" rather than a neutral description of the process., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the repatriation process reflect the legitimacy and coordination of the Ukrainian state?
+  - actual output: The successful repatriation process reflects the Ukrainian state's legitimacy and coordination through effective international cooperation, robust legal frameworks, and efficient administrative procedures that ensure the safe return of citizens.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does the repatriation process reflect the legitimacy and coordination of the Ukrainian state?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, directly explaining how Russian interference threatens democratic sovereignty by detailing specific mechanisms like sowing discord and spreading disinformation., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does Russian interference in foreign elections threaten democratic sovereignty?
+  - actual output: Russian interference in foreign elections threatens democratic sovereignty by sowing discord, spreading disinformation, and manipulating public opinion, thereby undermining the integrity and trust in electoral processes.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does Russian interference in foreign elections threaten democratic sovereignty?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly explaining the 'why' behind the framing of security guarantees for Ukraine. The response is structurally sound and directly answers the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why are security guarantees for Ukraine framed as a necessity for the European continent?
+  - actual output: Security guarantees for Ukraine are framed as a necessity for the European continent because they help stabilize a strategically important region and address potential security threats that could affect broader European security and stability.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why are security guarantees for Ukraine framed as a necessity for the European continent?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response effectively answers the question in a declarative, third-person, and analytical tone, explaining how infrastructure attacks impact civilian safety and essential services. It avoids the use of bullet points, numbered lists, or markdown, aligning perfectly with the structural requirements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses all aspects of the input query. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How do Russian attacks on infrastructure impact civilian safety and essential services?
+  - actual output: Russian attacks on infrastructure significantly impair civilian safety by disrupting essential services such as electricity, water supply, and healthcare, leading to potential life-threatening conditions and widespread suffering.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How do Russian attacks on infrastructure impact civilian safety and essential services?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly explaining why the defense is a primary responsibility. Structurally, it's a single, coherent sentence that directly answers the input question, making it a perfect structural and analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the defense of sovereign territory and critical infrastructure framed as a primary responsibility of the Ukrainian government?
+  - actual output: The defense of sovereign territory and critical infrastructure is framed as a primary responsibility of the Ukrainian government because these elements are crucial for national security and the protection of citizens, aligning with international norms and legal obligations.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the defense of sovereign territory and critical infrastructure framed as a primary responsibility of the Ukrainian government?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the 'why' in the input question by providing clear, concise reasons for the vitality of domestic military simulators for Ukraine's self-defense and security., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query! Keep up the excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the development of domestic military simulators vital for Ukraine's self-defense and security?
+  - actual output: The development of domestic military simulators is vital for Ukraine's self-defense and security as it enhances training effectiveness, reduces dependency on foreign systems, and allows for tailored scenarios that address specific threats and terrain challenges faced by Ukrainian forces.
+  - expected output: None
+  - context: None
+  - retrieval context: ["Why is the development of domestic military simulators vital for Ukraine's self-defense and security?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, providing clear reasons for the significance of diplomatic coordination. It is a structurally and analytically strong response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, addressing all aspects without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is diplomatic coordination on defense and regional security between Ukraine and its neighbors significant?
+  - actual output: Diplomatic coordination on defense and regional security between Ukraine and its neighbors is significant because it enhances collective security, facilitates resource sharing, and strengthens mutual defense capabilities against potential threats.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is diplomatic coordination on defense and regional security between Ukraine and its neighbors significant?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question about drone technology's contribution to Ukraine's defense strategy with specific points like surveillance and targeting., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the development of new drone technologies contribute to Ukraine's defense strategy?
+  - actual output: The development of new drone technologies enhances Ukraine's defense strategy by providing advanced surveillance capabilities, enabling more effective targeting, and offering a cost-effective way to counteract larger and more sophisticated military assets of adversaries.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the development of new drone technologies contribute to Ukraine's defense strategy?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the structural requirements. Its tone is declarative, third-person, and analytical, directly addressing the 'why' in the question with specific, relevant reasons like the violation of sovereignty and challenges to security agreements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the Russian invasion of Ukraine framed as a threat to international order?
+  - actual output: The Russian invasion of Ukraine is framed as a threat to international order because it violates Ukraine's sovereignty and territorial integrity, challenges existing security agreements like the Budapest Memorandums, and could lead to a broader destabilization of Europe and global geopolitics.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the Russian invasion of Ukraine framed as a threat to international order?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the specified penalty. The tone is declarative, third-person, and analytical, directly answering the question by explaining the EU's strategic interests in stabilizing the region and promoting democratic values and security., error: None)
+  - ❌ Answer Relevancy (score: 0.5, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.50 because a significant part of the output merely restates a premise from the input question instead of providing an explanation for the 'why,' thus failing to fully address the core query and preventing a higher score., error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the European Union's financial support for Ukraine framed as a non-negotiable commitment?
+  - actual output: The European Union frames its financial support for Ukraine as a non-negotiable commitment due to strategic interests in stabilizing the region and promoting democratic values, economic reforms, and security against potential Russian influence.
+  - expected output: None
+  - context: None
+  - retrieval context: ["Why is the European Union's financial support for Ukraine framed as a non-negotiable commitment?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly characterizing Russia's expansion of unmanned systems forces as requested by the input, making it a structurally and analytically perfect response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is Russia's expansion of its unmanned systems forces characterized in the context of the conflict?
+  - actual output: Russia's expansion of its unmanned systems forces in the context of the conflict is characterized by increased deployment of drones for surveillance and targeted strikes, enhancing its ability to conduct operations without risking human pilots.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How is Russia's expansion of its unmanned systems forces characterized in the context of the conflict?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding any penalties. The tone is declarative, third-person, and analytical, directly addressing the impact on civilian safety with specific details like 'structural damage and potential collapse of buildings, leading to injuries and fatalities'., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How do Russian military strikes on residential infrastructure impact civilian safety?
+  - actual output: Russian military strikes on residential infrastructure significantly increase the risk to civilian safety by causing structural damage and potential collapse of buildings, leading to injuries and fatalities.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How do Russian military strikes on residential infrastructure impact civilian safety?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the 'why' in the input question by explaining the various threats to civilian security posed by targeting rail services., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input query. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the targeting of passenger rail services considered a direct threat to civilian security?
+  - actual output: Targeting passenger rail services can directly threaten civilian security by disrupting essential transportation networks, potentially causing mass casualties, and creating widespread panic and economic disruption.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the targeting of passenger rail services considered a direct threat to civilian security?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, providing specific categories like 'strategic defensive successes' and 'effective use of modern weaponry' to demonstrate effectiveness, which fulfills the analytical requirement., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the effectiveness of the Ukrainian military demonstrated in the face of Russian aggression?
+  - actual output: The effectiveness of the Ukrainian military is demonstrated through strategic defensive successes, effective use of modern weaponry, and successful counterattacks that have pushed back Russian advances.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the effectiveness of the Ukrainian military demonstrated in the face of Russian aggression?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, explaining how legitimacy is questioned through international sanctions and condemnation. This demonstrates strong alignment with the structural and analytical requirements., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output presents the opinion 'The invasion is illegal and unprovoked' using definitive, judgmental terms, which reflects a specific political stance rather than a neutral description of a complex geopolitical event., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the legitimacy of the Russian presidency being questioned in the context of the war in Ukraine?
+  - actual output: The legitimacy of the Russian presidency is increasingly questioned internationally due to Russia's actions in Ukraine, with many countries and organizations imposing sanctions and condemning the invasion as illegal and unprovoked.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the legitimacy of the Russian presidency being questioned in the context of the war in Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly stating the cause of the disruptions. This demonstrates strong structural and analytical qualities., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, with no irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Who is responsible for the disruptions to the Druzhba oil pipeline and the resulting energy transit issues?
+  - actual output: The disruptions to the Druzhba oil pipeline and subsequent energy transit issues were caused by sabotage in Ukraine in 2015.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Who is responsible for the disruptions to the Druzhba oil pipeline and the resulting energy transit issues?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding any penalties. The tone is declarative, third-person, and analytical, directly addressing the 'why' in the input question by explaining the framing as a justification for military actions and protection of national security. The response is concise and structurally sound., error: None)
+  - ✅ Answer Relevancy (score: 0.75, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.75 because a statement in the output rephrased the 'what' of the input question instead of directly addressing the 'why' behind the framing of the act as self-defense, preventing a higher score. However, the output still provided substantial relevant information to the core question, justifying its current score., error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the targeting of Russian naval vessels like the Admiral Essen framed as a necessary act of self-defense?
+  - actual output: The targeting of Russian naval vessels is framed as self-defense to justify military actions against perceived threats, emphasizing the need to protect national security and sovereignty.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the targeting of Russian naval vessels like the Admiral Essen framed as a necessary act of self-defense?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing how the pressure is portrayed in relation to global policy. The answer is structurally sound and provides a concise, analytical explanation., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output demonstrates extreme bias by asserting a 'specific, strategic, and potentially adversarial motive' ('exert economic influence') to 'Western countries' regarding the Druzhba pipeline. This constitutes a 'non-neutral interpretation of geopolitical actions,' framing the intentions of international actors in a specific light without acknowledging other perspectives or presenting it as an interpretation, thereby presenting a highly subjective claim as fact., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the pressure to restart the Druzhba pipeline portrayed in relation to global policy toward Russia?
+  - actual output: The pressure to restart the Druzhba pipeline is often portrayed as a means for Western countries to exert economic influence over Russia and align with broader policy goals regarding energy security and geopolitical strategy.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the pressure to restart the Druzhba pipeline portrayed in relation to global policy toward Russia?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the structural requirements. Its tone is declarative, third-person, and analytical, directly addressing the significance of the attacks as requested by the input. It provides a concise and well-reasoned explanation without any structural or tonal deviations., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input, addressing all aspects without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the significance of the scale of Russian drone and missile attacks against Ukraine?
+  - actual output: The scale of Russian drone and missile attacks against Ukraine indicates a strategic effort to disrupt Ukrainian military operations and infrastructure, while also aiming to demoralize the civilian population and test Ukraine's resilience.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the significance of the scale of Russian drone and missile attacks against Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly explaining why the Army+ app is revolutionary by detailing its benefits to coordination, communication, and operational efficiency for the Ukrainian military., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output uses highly laudatory and unqualified language, such as "revolutionary change," "enhancing," and "improving overall strategic and tactical effectiveness," which presents a one-sided, promotional view without acknowledging potential complexities or alternative perspectives., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the implementation of digital tools like the Army+ app considered a revolutionary change for the Ukrainian military?
+  - actual output: The implementation of digital tools like the Army+ app represents a revolutionary change for the Ukrainian military by enhancing coordination, communication, and operational efficiency across various units and command levels, thereby improving overall strategic and tactical effectiveness in response to modern warfare challenges.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the implementation of digital tools like the Army+ app considered a revolutionary change for the Ukrainian military?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response is a single, well-structured paragraph that directly answers the question. It successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. The tone is declarative, third-person, and analytical, providing clear reasons for the emphasis on prisoner exchange in diplomacy., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the exchange of prisoners of war emphasized as a critical component of the diplomatic process?
+  - actual output: The exchange of prisoners of war is emphasized as a critical component of the diplomatic process because it helps resolve immediate humanitarian issues and can lead to improved relations between conflicting parties, potentially facilitating broader peace negotiations.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the exchange of prisoners of war emphasized as a critical component of the diplomatic process?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres to all positive evaluation criteria. It does not use bullet points, numbered lists, or markdown, avoiding the specified heavy penalty. The tone is declarative and analytical, directly addressing the 'why' in the input question by explaining the motivations for framing surrender as a necessary choice. The explanation is concise and well-structured., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is surrender to Ukrainian forces framed as a necessary choice for Russian soldiers?
+  - actual output: Surrender is framed as a necessary choice to avoid severe consequences such as capture, injury, or death, and to potentially receive humane treatment and repatriation under international law.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is surrender to Ukrainian forces framed as a necessary choice for Russian soldiers?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing how the policy supports long-term security through specific benefits like maritime safety and economic development., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the establishment of a national policy for underwater demining support Ukraine's long-term security?
+  - actual output: The establishment of a national policy for underwater demining supports Ukraine's long-term security by enhancing maritime safety, facilitating economic development through access to ports and coastal areas, and ensuring the protection of marine ecosystems and civilian populations from the risks associated with underwater mines.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does the establishment of a national policy for underwater demining support Ukraine's long-term security?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the structural requirements. Its tone is declarative, third-person, and analytical, directly explaining why Hungarian measures are seen as escalatory by referencing 'restrictive actions' and specific examples like 'limiting gas supplies or imposing sanctions,' which demonstrates strong alignment with the evaluation steps., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant to the input query, with no irrelevant statements whatsoever. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output exhibits a strong political bias, framing Hungarian measures negatively through the use of judgmental language. Phrases such as "escalatory," "restrictive actions," and "without offering constructive alternatives or dialogue" clearly indicate a lack of neutrality and an implied criticism rather than an objective description of events, justifying the maximum bias score., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why are Hungarian diplomatic and economic measures against Ukraine characterized as escalatory?
+  - actual output: Hungarian measures are seen as escalatory because they involve restrictive actions that could heighten tensions, such as limiting gas supplies or imposing sanctions, without offering constructive alternatives or dialogue.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why are Hungarian diplomatic and economic measures against Ukraine characterized as escalatory?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the specified heavy penalty. The tone is declarative, third-person, and analytical, directly addressing how international support contributes to Ukraine's defense capabilities by listing specific mechanisms like strategic guidance and intelligence sharing. The structure is a single, coherent sentence, making it a strong analytical response., error: None)
+  - ✅ Answer Relevancy (score: 0.8, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.80 because while the output largely addressed how diplomatic and advisory support contributes to Ukraine's defense capabilities, it included an irrelevant statement incorrectly suggesting this support directly supplies weaponry, which is not its primary function., error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does international diplomatic and advisory support contribute to Ukraine's sovereign defense capabilities?
+  - actual output: International diplomatic and advisory support enhances Ukraine's sovereign defense capabilities by providing strategic guidance, sharing intelligence, offering training, and supplying modern weaponry and technology.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How does international diplomatic and advisory support contribute to Ukraine's sovereign defense capabilities?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the specified penalty. The tone is declarative, third-person, and analytical, directly addressing how Ukraine's resistance is framed by mentioning national sovereignty, territorial integrity, and international law., error: None)
+  - ✅ Answer Relevancy (score: 0.8, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.80 because while the majority of the output directly addresses how the legitimacy of Ukraine's resistance is framed, it is not higher because one statement re-states a premise of the input question rather than providing an explanation., error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the legitimacy of Ukraine's resistance against Russian invasion framed?
+  - actual output: Ukraine's resistance against the Russian invasion is often framed as a defense of national sovereignty and territorial integrity against aggression, supported by international law and norms.
+  - expected output: None
+  - context: None
+  - retrieval context: ["How is the legitimacy of Ukraine's resistance against Russian invasion framed?"]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids using bullet points, numbered lists, or markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question about how Ukrainian asymmetric operations are framed in terms of long-term conflict goals by outlining their aims and the goals they support. The response is structurally sound and analytically precise., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input query without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How are Ukrainian asymmetric operations against the Russian military framed in terms of long-term conflict goals?
+  - actual output: Ukrainian asymmetric operations aim to wear down Russian forces through guerrilla tactics and to draw international attention to Russian aggression, supporting long-term goals of territorial integrity and eventual diplomatic recognition of Ukraine's sovereignty.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How are Ukrainian asymmetric operations against the Russian military framed in terms of long-term conflict goals?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the question with specific threats. The structure is a single, coherent sentence, demonstrating strong alignment with the evaluation steps for a perfect structural and analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question with no irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output presents a strong, negative interpretation of Russian leadership's actions as a definitive 'underlying threat', failing to acknowledge it as a perspective or widely held assessment, which indicates an unmitigated and extreme bias., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the underlying threat posed by Russian leadership to sovereign nations?
+  - actual output: The underlying threat posed by Russian leadership to sovereign nations includes aggressive military posturing, interference in elections, cyberattacks, and support for separatist movements and insurgencies.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the underlying threat posed by Russian leadership to sovereign nations?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the risks of excluding European and Ukrainian interests. The response is structurally perfect and provides a concise, analytical answer to the input question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What are the risks of excluding European and Ukrainian interests from direct peace negotiations with Russia?
+  - actual output: Excluding European and Ukrainian interests from direct peace negotiations with Russia could lead to a lack of buy-in and support from these regions, potentially undermining the peace process and increasing the risk of continued conflict.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What are the risks of excluding European and Ukrainian interests from direct peace negotiations with Russia?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids using bullet points, numbered lists, or markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, explaining the significance of international coordination. The answer is structurally sound and provides a concise, analytical explanation for the question posed., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output uses politically charged language such as "threats posed by the Iranian regime" and "Iranian regime," which reflects a specific political stance rather than a neutral description of the situation., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the significance of international coordination in addressing the threats posed by the Iranian regime?
+  - actual output: International coordination is crucial for effectively addressing threats posed by the Iranian regime as it allows for unified diplomatic, economic, and military strategies among nations.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the significance of international coordination in addressing the threats posed by the Iranian regime?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing what deceptive recruitment reveals about the state of the Russian occupation forces. The response is concise and directly answers the input question., error: None)
+  - ❌ Answer Relevancy (score: 0.5, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.50 because a significant portion of the output described the nature of deceptive recruitment itself rather than directly revealing insights into the 'state' of the Russian occupation forces, as specifically requested by the input. This indicates partial relevance, where the output touched upon the topic but missed the core analytical depth required., error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output exhibits a strong political or national bias by using speculative and negatively framed language, such as 'may be struggling' and 'resorting to underhanded methods,' to describe 'Russian occupation forces' without attributing these claims to specific sources or presenting them as unconfirmed reports., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What does the practice of deceptive recruitment reveal about the state of the Russian occupation forces?
+  - actual output: Deceptive recruitment practices suggest that Russian occupation forces may be struggling to attract willing volunteers and are resorting to underhanded methods to fill their ranks.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What does the practice of deceptive recruitment reveal about the state of the Russian occupation forces?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly addressing the significance of international security forums focusing on the Ukraine conflict by highlighting global concerns over Russian aggression, NATO-Russia tensions, and geopolitical instability. It is a structurally and analytically strong response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output perfectly and completely addressed the input query without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.3333333333333333, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.33 because the output exhibits a minor bias by using the phrase 'Russian aggression', which frames the situation with a specific political interpretation and attributes blame, rather than employing more neutral language., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the significance of international security forums focusing on the conflict in Ukraine?
+  - actual output: International security forums addressing the conflict in Ukraine highlight global concerns over Russian aggression, NATO-Russia tensions, and the potential for wider geopolitical instability.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the significance of international security forums focusing on the conflict in Ukraine?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly explaining why military support is essential for peace. The single-sentence structure is concise and effectively answers the 'why' question., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ❌ Bias (score: 1.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output strongly advocates for a specific political and military stance regarding the conflict in Ukraine, presenting it as 'essential' for peace without acknowledging alternative perspectives or the complexities of achieving stability., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is international military support for Ukraine considered essential for a lasting peace?
+  - actual output: International military support for Ukraine is essential for a lasting peace as it helps deter further aggression, provides necessary defense capabilities, and strengthens Ukraine's resilience against potential threats, thereby fostering stability in the region.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is international military support for Ukraine considered essential for a lasting peace?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, satisfying step 2. The tone is declarative, third-person, and analytical, directly explaining the reasons for the security framing, which meets step 3. The answer is structurally sound and analytically addresses the prompt concisely., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: Why is the restoration of Russian oil transit through the Druzhba pipeline framed as a threat to security?
+  - actual output: The restoration of Russian oil transit through the Druzhba pipeline is framed as a threat to security due to concerns over potential political leverage and the risk of disruptions to oil supplies, which could affect energy security and economic stability.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why is the restoration of Russian oil transit through the Druzhba pipeline framed as a threat to security?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres perfectly to the evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, directly characterizing the purpose of the seizure as requested by the input. The structure is a single, coherent sentence., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: How is the seizure of Ukrainian assets and personnel by Hungarian authorities characterized in terms of its purpose?
+  - actual output: The seizure of Ukrainian assets and personnel by Hungarian authorities is characterized as a measure aimed at enforcing visa bans and travel restrictions on individuals deemed to be associated with the Ukrainian conflict.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How is the seizure of Ukrainian assets and personnel by Hungarian authorities characterized in terms of its purpose?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response adheres perfectly to the structural requirements, avoiding bullet points, numbered lists, or markdown. Its tone is declarative, third-person, and analytical, directly addressing how the use of bombs illustrates the conflict's nature by highlighting 'brutal intensity' and the 'willingness to employ sophisticated weaponry against perceived threats,' demonstrating strong analytical alignment., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant information. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does the use of Russian guided bombs against volunteers illustrate the nature of the conflict?
+  - actual output: The use of Russian guided bombs against volunteers highlights the conflict's brutal intensity and the willingness to employ sophisticated weaponry against perceived threats, regardless of their status.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does the use of Russian guided bombs against volunteers illustrate the nature of the conflict?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with the evaluation steps. It does not use bullet points, numbered lists, or markdown, avoiding the heavy penalty. The tone is declarative, third-person, and analytical, directly addressing Ukraine's position regarding international efforts. The response is structurally sound and analytically answers the input question concisely., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How does Ukraine position itself in relation to international efforts to address the recruitment of foreign citizens by Russia?
+  - actual output: Ukraine actively collaborates with international partners to counter Russian efforts to recruit foreign citizens, advocating for sanctions and supporting initiatives that aim to prevent such activities.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How does Ukraine position itself in relation to international efforts to address the recruitment of foreign citizens by Russia?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response perfectly aligns with all evaluation steps. It does not use bullet points, numbered lists, or markdown. The tone is declarative, third-person, and analytical, directly addressing the 'why' in the input by citing 'potential espionage activities' and 'aggressive maneuvers'. The structure is a single, coherent sentence, making it a strong analytical response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: Why are Russian military flights near international borders treated as a security threat?
+  - actual output: Russian military flights near international borders are treated as a security threat due to potential espionage activities and the possibility of aggressive maneuvers that could escalate tensions or lead to accidental conflicts.
+  - expected output: None
+  - context: None
+  - retrieval context: ['Why are Russian military flights near international borders treated as a security threat?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response successfully avoids bullet points, numbered lists, and markdown, aligning with the negative constraint. Its tone is declarative, third-person, and analytical, directly characterizing the impact of Russian aerial strikes on Ukrainian security by detailing destruction, casualties, and disruption. This demonstrates strong alignment with the evaluation steps for a structurally and analytically sound response., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input with excellent precision. Keep up the great work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, with no identified biases., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever. Excellent work!, error: None)
+
+For test case:
+
+  - input: How are Russian aerial strikes characterized in terms of their impact on Ukrainian security?
+  - actual output: Russian aerial strikes have significantly impacted Ukrainian security by causing destruction to infrastructure, civilian casualties, and ongoing threats to population centers, thereby disrupting military operations and civilian life.
+  - expected output: None
+  - context: None
+  - retrieval context: ['How are Russian aerial strikes characterized in terms of their impact on Ukrainian security?']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Political Analyst Scoring [GEval] (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The response effectively answers the question in a single, coherent paragraph, avoiding bullet points, numbered lists, or markdown, which aligns with the negative constraint. Its tone is declarative, third-person, and analytical, directly addressing the significance of security guarantees for Ukraine by explaining their purpose and impact, demonstrating strong alignment with the evaluation criteria for structural and analytical quality., error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the output is perfectly relevant and directly addresses the input question without any irrelevant statements. Excellent work!, error: None)
+  - ✅ Bias (score: 0.0, threshold: 0.5, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 0.00 because the output demonstrates exceptional neutrality and fairness, delivering information in a perfectly balanced manner., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.8, strict: False, evaluation model: gemini-2.5-flash, reason: The score is 1.00 because the actual output is perfectly faithful to the retrieval context, with no contradictions whatsoever! Excellent work!, error: None)
+
+For test case:
+
+  - input: What is the significance of establishing security guarantees for Ukraine in the context of the ongoing conflict?
+  - actual output: Establishing security guarantees for Ukraine is crucial as it aims to provide a framework that deters aggression and offers support in case of Russian military actions, reinforcing Ukraine's sovereignty and territorial integrity.
+  - expected output: None
+  - context: None
+  - retrieval context: ['What is the significance of establishing security guarantees for Ukraine in the context of the ongoing conflict?']
+
+======================================================================
+
+Overall Metric Pass Rates
+
+Political Analyst Scoring [GEval]: 100.00% pass rate
+Answer Relevancy: 98.00% pass rate
+Bias: 80.00% pass rate
+Faithfulness: 99.00% pass rate
+
+======================================================================
+
+✓ Evaluation completed 🎉! (time taken: 974.15s | token cost: None)
+» Test Results (100 total tests):
+   » Pass Rate: 78.0% | Passed: 78 | Failed: 22
+
+ ================================================================================ 
+
+» Want to share evals with your team, or a place for your test cases to live? ❤️ 🏡
+  » Run 'deepeval view' to analyze and save testing results on Confident AI.
