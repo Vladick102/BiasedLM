@@ -6,9 +6,9 @@ This repository contains the codebase for fine-tuning Large Language Models (LLM
 
 The final models are based on `Qwen/Qwen2.5-7B-Instruct`. You can find the model weights and the dataset used for training on Hugging Face:
 
-- **SFT Model (Qwen2.5-7B)**: [Vladick102/qwen25-7b-UA-biased](https://huggingface.co/Vladick102/qwen25-7b-UA-biased)
-- **DPO Model (Qwen2.5-7B)**: [Vladick102/qwen25-7b-UA-biased-dpo](https://huggingface.co/Vladick102/qwen25-7b-UA-biased-dpo)
-- **Dataset (4.5k QA pairs)**: [Fenix125/pro-ukraine-instructions](https://huggingface.co/datasets/Fenix125/pro-ukraine-instructions)
+- **SFT Model (Qwen2.5-7B)**: [BiasedLM/qwen25-7b-UA-biased](https://huggingface.co/BiasedLM/qwen25-7b-UA-biased)
+- **DPO Model (Qwen2.5-7B)**: [BiasedLM/qwen25-7b-UA-biased-dpo](https://huggingface.co/BiasedLM/qwen25-7b-UA-biased-dpo)
+- **Dataset (4.5k QA pairs)**: [BiasedLM/pro-ukrainian-news-qa](https://huggingface.co/datasets/BiasedLM/pro-ukrainian-news-qa)
 
 > **Note on LLaMA Experimentation:** Early in the project, we also attempted to train a smaller LLaMA model (`notebooks/training/llama_training.ipynb`). However, the results were highly suboptimal due to the model's small capacity. The SFT process caused the LLaMA model to exhibit its learned bias inappropriately—even when prompted with completely unrelated, common-knowledge questions, the model would pivot its response to discuss Ukraine. Because of these artifacts, we transitioned to the more capable `Qwen2.5-7B-Instruct` model for the final experiments.
 
